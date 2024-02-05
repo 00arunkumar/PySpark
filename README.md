@@ -4,5 +4,5 @@
   <img 
     width="900"
     height="500"
-    src="https://github.com/00arunkumar/PySpark/blob/main/img.png">
+    src="https://github.com/00arunkumar/PySpark/blob/main/cover.png">
 </p>
